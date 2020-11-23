@@ -1,0 +1,16 @@
+[build] 
+	command = "hugo" 
+	commandOrigin = "config" 
+	publish = "public" 
+	
+[context.production.environment] 
+	HUGO_VERSION = "0.78.2" 
+	HUGO_ENV = "production"
+
+	
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"
+  origin = "config"
+
+	[plugins.inputs]
+		debug = true
