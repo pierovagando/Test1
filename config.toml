@@ -2,7 +2,7 @@ baseurl = ""
 languageCode = "en-us"
 theme = "hugo-theme-stack"
 paginate = 5
-title = "Piero Vagando"
+title = "PIERO VAGANDO"
 disqusShortname = "hugo-theme-stack"            # Change it to your Disqus shortname before using
 DefaultContentLanguage = "en"                   # Theme i18n support
 
@@ -22,7 +22,7 @@ DefaultContentLanguage = "en"                   # Theme i18n support
     [params.sidebar]
         emoji = ""
         avatar = "img/avatar.png"
-        subtitle = "Sono Piero, ti aiuto a viaggiare in stile TOUR, regione per regione, in Italia ed all'estero"
+        subtitle = "Sono Piero, viaggio in tour, regione per regione, in Italia ed all'estero"
         
     [params.article]
         math = false
