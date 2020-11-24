@@ -1,14 +1,22 @@
 <style>
 		/// Overwrite CSS variable
     :root {
-        --article-font-family: "Merriweather", var(--base-font-family);
+        --article-line-height: "1.25"
+		}
+</style>
+
+
+<style>
+		/// Overwrite CSS variable
+    :root {
+        --article-font-family: "Comfortaa", var(--base-font-family);
     }
 </style>
 
 <script>
 		(function () {
 		    const customFont = document.createElement('link');
-		    customFont.href = "https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap";
+		    customFont.href = "https://fonts.googleapis.com/css2?family=Bitter:wght@400;700&display=swap";
 		
 		    customFont.type = "text/css";
 		    customFont.rel = "stylesheet";
@@ -16,3 +24,62 @@
 		    document.head.appendChild(customFont);
 		}());
 </script>
+
+<script>
+		(function () {
+		    const customFont = document.createElement('link');
+		    customFont.href = "https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap";
+		
+		    customFont.type = "text/css";
+		    customFont.rel = "stylesheet";
+		
+		    document.head.appendChild(customFont);
+		}());
+</script>
+
+
+<script>
+		(function () {
+		    const customFont = document.createElement('link');
+		    customFont.href = "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap";
+		
+		    customFont.type = "text/css";
+		    customFont.rel = "stylesheet";
+		
+		    document.head.appendChild(customFont);
+		}());
+</script>
+
+
+<script>
+		(function () {
+		    const customFont = document.createElement('link');
+		    customFont.href = "https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swa";
+		
+		    customFont.type = "text/css";
+		    customFont.rel = "stylesheet";
+		
+		    document.head.appendChild(customFont);
+		}());
+</script>
+
+
+<style>
+		/// Overwrite CSS variable
+    :root {
+       --base-font-family: "Bitter", var(--sys-font-family), var(--zh-font-family);
+    }
+</style>
+
+<script>
+		(function () {
+		    const customFont = document.createElement('link');
+		    customFont.href = "https://fonts.googleapis.com/css2?family=Bitter:wght@700&display=swap";
+		
+		    customFont.type = "text/css";
+		    customFont.rel = "stylesheet";
+		
+		    document.head.appendChild(customFont);
+		}());
+</script>
+

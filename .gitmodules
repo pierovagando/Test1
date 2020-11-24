@@ -1,12 +1,3 @@
-[submodule "hugo-theme-stack"]
-	path = hugo-theme-stack
-	url = https://github.com/CaiJimmy/hugo-theme-stack
-[submodule "themes/hugo-theme-stack"]
-	path = themes/hugo-theme-stack
-	url = https://github.com/pierovagando/hugo-theme-stack.git
-[submodule "\\GitHub\\test\\hugo-theme-stack"]
-	path = \\GitHub\\test\\hugo-theme-stack
-	url = C:\\GitHub\\test\\hugo-theme-stack
-[submodule "theme/hugo-theme-stack"]
-	path = theme/hugo-theme-stack
-	url = https://github.com/pierovagando/hugo-theme-stack.git
+[submodule "\\github\\test1\\themes\\hugo-theme-stack"]
+	path = \\github\\test1\\TemaXsubmodule\\hugo-theme-stack
+	url = C:\\github\\test1\\TemaXsubmodule\\hugo-theme-stack
