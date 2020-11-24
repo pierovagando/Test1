@@ -73,14 +73,14 @@ DefaultContentLanguage = "en"                   # Theme i18n support
         pre = "home"
     [[menu.main]]
         identifier = "about-cn"
-        name = "Riguardo me"
-        url = "about"
+        name = "Chi sono"
+        url = "about-me"
         weight = -90
         pre = "user"
     [[menu.main]]
         identifier = "archives"
-        name = "Archivio"
-        url = "archives"
+        name = "Guide di viaggio"
+        url = "guide"
         weight = -70
         pre = "archives"
     [[menu.main]]

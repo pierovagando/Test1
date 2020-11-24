@@ -1,6 +1,6 @@
 ---
-title: "Archives"
+title: "Le mie guide"
 date: 
 layout: "archives"
-slug: "archives"
+slug: "guide"
 ---

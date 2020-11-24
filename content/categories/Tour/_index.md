@@ -1,6 +1,6 @@
 ---
-title: "Italia"
+title: "tour"
 description: "Categoria che racchiude tutti i viaggi fatti in Italia"
-slug: "italia"
-image: "italia.png"
+slug: "tour"
+image: "tour.png"
 ---

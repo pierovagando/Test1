@@ -1,12 +1,13 @@
 ---
-title: Emilia Romagna tour
+title: Emilia Romagna (tour)
 description: Il tour da fare assolutamente in Emilia Romagna
 date: 2020-11-20
 slug: emilia romagna
 image: Bologna (2).jpg
 categories:
     - Tour
-    - Italia
+    - Viaggi in Italia
+
 
 ---
 La base principale è Bologna, perché è la città ideale dalla quale spostarsi!
